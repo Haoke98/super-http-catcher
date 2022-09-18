@@ -1,0 +1,7 @@
+{
+  "name": "super-http-catcher",
+  "version": "1.0.0",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
